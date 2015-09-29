@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">RefinedHttpManager</string>
+    <string name="download">Download after 5 seconds</string>
+    
+</resources>
